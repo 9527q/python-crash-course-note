@@ -4,6 +4,8 @@
 
 【美】**Eric Matthes** 著 **袁国中** 译
 
+![书籍封面](images/book-cover.jpg)
+
 ![thanks-message](images/thanks-message.jpg)
 
 ## [在线笔记](https://9527q.github.io/python-crash-course-note/)

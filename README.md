@@ -10,4 +10,7 @@
 
 [练习答案、源代码文件、安装说明、配套资源翻译等在页面右侧](http://www.ituring.com.cn/book/1861)
 
-运行[猜词游戏](./guess_number.py)：`python guess_number.py`
+运行[猜词游戏](./guess_number.py)：
+```py
+python guess_number.py
+```

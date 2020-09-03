@@ -18,4 +18,4 @@
 
 - [图灵社区](http://www.ituring.com.cn/)
 - [Python 主页](http://python.org/)
-- [练习答案、源代码文件、安装说明、配套资源翻译等在页面右侧](http://www.ituring.com.cn/book/1861)
+- [练习答案、源代码文件、安装说明、配套资源翻译等在链接页面右侧](http://www.ituring.com.cn/book/1861)

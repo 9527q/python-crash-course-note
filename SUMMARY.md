@@ -3,3 +3,4 @@
 * [《Python编程从入门到实战》笔记](README.md)
 * 第一部分 基础知识
   * [第 1 章 起步](./md-note/part1/01-start.md)
+  * [第 2 章 变量和简单数据类型](md-note/part1/02-type.md)

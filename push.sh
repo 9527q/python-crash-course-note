@@ -8,6 +8,7 @@ git push
 
 # 提交文档到 gh-pages 分支
 cd docs
+git init
 git add .
 git commit -m $1
-git push 
+git push -f git@github.com:9527q/python-crash-course-note.git master:gh-pages

@@ -1,4 +1,4 @@
-# 《Python编程从入门到实战》
+# 《Python编程从入门到实战》笔记
 
 **Python Crash Course** A Hands-On, Project-Based Introduction to Programming
 

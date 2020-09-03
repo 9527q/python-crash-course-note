@@ -6,11 +6,13 @@
 
 ![thanks-message](images/thanks-message.jpg)
 
-[猜词游戏代码](code/guess_number.py)
+## [在线笔记](https://9527q.github.io/python-crash-course-note/)
 
 ## 目录
 
-第一部分 基础知识
+[猜词游戏代码](code/guess_number.py)
+
+### 第一部分 基础知识
 
 - [第 1 章 起步](./md-note/part1/01-start.md)
 
